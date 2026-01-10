@@ -1,0 +1,12 @@
+google-genai
+python-dotenv
+groq
+nltk
+pandas
+openpyxl
+transformers
+torch
+sentencepiece
+scikit-learn
+streamlit
+plotly-express
