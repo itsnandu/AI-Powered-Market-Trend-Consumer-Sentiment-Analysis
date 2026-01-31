@@ -10,3 +10,17 @@ sentencepiece
 scikit-learn
 streamlit
 plotly-express
+
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu 
+numpy
+
+
+# for gemini 
+google-genai
+python-dotenv
+
+schedule
